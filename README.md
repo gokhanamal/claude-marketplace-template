@@ -104,4 +104,4 @@ If you explain something to Claude twice, it belongs in a skill.
 
 ---
 
-Related article: [How to build a shared AI context for your engineering team](https://medium.com/@gokhanamal)
+Related article: [How to build a shared AI context for your engineering team](https://medium.com/@gokhanamal/how-to-build-a-shared-ai-context-for-your-engineering-team-2a5a9c33ec83)
