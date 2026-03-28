@@ -2,7 +2,7 @@
 
 A template for building a shared AI context library for your engineering team. Fork this repo, rename the plugins for your org, and add your first skill.
 
-![Claude Code plugin marketplace showing available plugins](screenshot.png)
+![Claude Code plugin marketplace showing available plugins](claude-code.png)
 
 ## Structure
 
