@@ -1,0 +1,32 @@
+{
+  "name": "my-company-claude",
+  "owner": {
+    "name": "Your DevTools Team",
+    "email": "devtools@your-company.com"
+  },
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "shared",
+      "source": "./shared",
+      "description": "Company-wide skills for all engineers"
+    },
+    {
+      "name": "ios",
+      "source": "./ios",
+      "description": "iOS engineering skills"
+    },
+    {
+      "name": "android",
+      "source": "./android",
+      "description": "Android engineering skills"
+    },
+    {
+      "name": "backend",
+      "source": "./backend",
+      "description": "Backend engineering skills"
+    }
+  ]
+}
