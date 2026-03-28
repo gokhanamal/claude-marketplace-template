@@ -2,6 +2,8 @@
 
 A template for building a shared AI context library for your engineering team. Fork this repo, rename the plugins for your org, and add your first skill.
 
+![Claude Code plugin marketplace showing available plugins](screenshot.png)
+
 ## Structure
 
 ```
@@ -94,7 +96,7 @@ Skills are pushed to every user in the org. No installation required.
 ## Adding a new skill
 
 1. Create a directory under the relevant plugin: `plugins/shared/skills/my-skill/`
-2. Add a `SKILL.md` file with a frontmatter `name` and `description`
+2. Add a `SKILL.md` file with a frontmatter `description`
 3. Write the skill as instructions for Claude — what to ask for, what to check, what to produce
 4. Commit and push. Engineers pick it up on their next session.
 
